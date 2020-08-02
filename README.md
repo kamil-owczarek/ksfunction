@@ -1,3 +1,9 @@
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
 The task is similary to Knapsack problem.
 
 The function takes two arguments: 
@@ -18,5 +24,13 @@ Then I also retrun which values create the result and add this memes to as set "
 
 The result of the function is a tuple with value of all memes on the USB stick and set of memes names.
 
-Python version: 3.7
+## Technologies
+Project is created with:
+* Python version: 3.7
+
+## Setup
+Compile and run with:
+```
+$ python main.py
+```
 
